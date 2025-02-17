@@ -1,0 +1,65 @@
+.intro{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 90px;
+}
+.text-center{
+    text-align: center;
+}
+.text-color{
+    color: white;
+}
+/* button style  */
+.btn-primary{
+    background-color: black;
+    padding: 10px 40px;
+    border: none;
+    
+}
+
+/* header style  */
+header{
+    background-image: url(../assets/Hero-bg.png);
+}
+.header-center-image{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+
+/* main styles  */
+main{
+    max-width: 1140px;
+    margin: auto;
+}
+.changing-the-world{
+    display: flex;
+}
+.helping-people{
+    display: flex;
+}
+.reason{
+    padding: 10px;
+    box-shadow: 3px black;
+}
+
+.current-targets{
+    display: flex;
+}
+
+.target-container{
+    display: flex;
+}
+
+.next-target{
+    display: flex;
+    gap: 40px;
+}
+/* footer design  */
+footer{
+    background-image: url(../assets/handshake.jpg);
+}
+.tips-box{
+    display: flex;
+}
